@@ -1,3 +1,3 @@
 # Merge_Conflits
 
-REMOTE
+LOCAL
