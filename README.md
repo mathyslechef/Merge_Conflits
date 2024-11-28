@@ -1,3 +1,1 @@
-# Merge_Conflits
-
-LOCAL
+LOCAL2
